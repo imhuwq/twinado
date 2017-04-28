@@ -1,0 +1,12 @@
+# For develop environment
+.idea
+test.sqlite
+deve.sqlite
+server/instance/*
+!server/instance/__init__.py
+deploy/shared/config
+
+
+# For python
+*.pyc
+*.pyo
